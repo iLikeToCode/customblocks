@@ -1,1 +1,3 @@
-custom.showText("h")
+basic.forever(function () {
+	
+})
